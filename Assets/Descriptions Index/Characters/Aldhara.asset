@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a13a4900e7180754fad4db59567a561d, type: 3}
+  m_Name: Aldhara
+  m_EditorClassIdentifier: 
+  name: Aldhara
+  Image: {fileID: 21300000, guid: 89c2c49745913874ea260390176e2424, type: 3}
+  description: "With a German Shepherd head and different colored eyes, (I know Aldhara\u2019s
+    right eye is brown, it\u2019s kind of hard to tell the color of the left eye)
+    there is also a scar on the right eye. \r\n\r\nHe has dark brown areas around
+    his eyes, his snout, mouth, and the areas around his ears. The rest of his face
+    and his neck is a tan color. \r\n\r\nHe is wearing a cape attached to his outfit.
+    On both of his shoulders and near his elbows are bulges. (I\u2019m assuming it\u2019s
+    part of his armor?) Additionally, he has clothing covering part of his arm and
+    part of his hands. \r\n\r\nOn top of his inner clothes are two belts draped diagonally.
+    He is wearing a third belt. Attached to the third belt is his sword in a sword
+    case which hangs on his left side. \r\n\r\nFrom the lower portions of his chest
+    hangs a long rectangular piece of fabric that goes until his knees. \r\n\r\nBoth
+    of his knees have these circular coverings. On the side is a circular thing.
+    (That\u2019s the best I can do)  \r\n"

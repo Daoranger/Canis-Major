@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70d0f9ab41411e41908c94a261aa66a, type: 3}
+  m_Name: Forest Start
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Night owls hoot and crickets chirp in the otherwise still, dense forest.
+      A thick fog lingers, obscuring the vision of a lost young canisapian.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: '"Damn, this fog! I can barely see beyond my snout. Damn that Valleon.
+      When I get my hands on him, I''ll- gah!"'
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: While muttering to himself, the lone adventure's foot gets caught on a
+      thick, exposed tree root, causing him to tumbles down a hill.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: '"Ugh my head. Huh?! What was that?"'
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: Looking around, he sees nothing. Same as before, but his folded ears twitch
+      around, trying to pick up any notable sound.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: Suddenly, a hand grabs his shoulder from behind. The adventure yelps out
+      of shock as he turns to see a large, obscured outline of a figure.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: He reaches for the dragger on his waist, but stops as he notices its a
+      large, Sylphorian Shepherd clad in armor and leather garbs.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: '"Calm yourself, Pup. You are in the Misty Forest, just outside the city
+      of Slyphora. Come with me, and we''ll get you cleaned up."'
+    speaker: {fileID: 11400000, guid: 012d8e30147083b488a6797f9cb43eec, type: 2}
+  - text: '"Ha! You think I''ll trust you so easily?"'
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: '"Trust me or not, but is it any better than wandering aimlessly in this
+      forest until you collapse from hunger or exhaustion. Or worse?"'
+    speaker: {fileID: 11400000, guid: 012d8e30147083b488a6797f9cb43eec, type: 2}
+  - text: Unable to argue with the larger canisapian, the adventurer follows him
+      out of the forest.
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: '"There have been reports of strange, masked bandits attacking and robbing
+      folks here... Look out!"'
+    speaker: {fileID: 11400000, guid: 394df16eaa7129d4fb43e1e4a1303f85, type: 2}
+  - text: Hahaha. Looks like you found me~
+    speaker: {fileID: 11400000, guid: 410b8b7bdcf81a5489a863f68ce510e9, type: 2}
+  background: {fileID: 21300000, guid: 684762aa0a4cbfb418e19da66fc0a970, type: 3}
+  nextScene: {fileID: 11400000, guid: 3dd2aa84f26f81c4796f101a0e6de4f3, type: 2}

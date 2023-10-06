@@ -1,0 +1,4 @@
+repository "Canis Major@Canis_Major@cloud"
+  path "/"
+    br "/main"
+    co "/main"

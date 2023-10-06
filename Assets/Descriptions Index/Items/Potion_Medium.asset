@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79f6bc2743718e94d84d7293c5c5db61, type: 3}
+  m_Name: Potion_Medium
+  m_EditorClassIdentifier: 
+  name: Double Potion
+  flavorText: The more the marrier as the saying goes
+  artwork: {fileID: 21300000, guid: ca51a1429a9ed524588d138bf71df8e7, type: 3}
+  itemTag: 0
+  value: 60
+  cost: 0
+  amount: 1
+  description: Drinking at a faster rate just saves so much time doesn't it?

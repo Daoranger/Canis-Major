@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70d0f9ab41411e41908c94a261aa66a, type: 3}
+  m_Name: First Level Part
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Where are we?
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: We are at the edge of the forest.
+    speaker: {fileID: 11400000, guid: 012d8e30147083b488a6797f9cb43eec, type: 2}
+  - text: ...
+    speaker: {fileID: 11400000, guid: 012d8e30147083b488a6797f9cb43eec, type: 2}
+  - text: It was once a peaceful place, but has now been taken over by dangerous
+      people.
+    speaker: {fileID: 11400000, guid: 012d8e30147083b488a6797f9cb43eec, type: 2}
+  - text: 'Really? '
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: It doesn't look that bad.
+    speaker: {fileID: 11400000, guid: a322bbbfbaa8d7641b1cc010c4644352, type: 2}
+  - text: 'Boo! '
+    speaker: {fileID: 11400000, guid: 410b8b7bdcf81a5489a863f68ce510e9, type: 2}
+  - text: Who dares step foot into my forest!?
+    speaker: {fileID: 11400000, guid: 410b8b7bdcf81a5489a863f68ce510e9, type: 2}
+  - text: I shall have your head for this!
+    speaker: {fileID: 11400000, guid: 410b8b7bdcf81a5489a863f68ce510e9, type: 2}
+  background: {fileID: 21300000, guid: 684762aa0a4cbfb418e19da66fc0a970, type: 3}
+  nextScene: {fileID: 0}
